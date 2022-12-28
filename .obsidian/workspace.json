@@ -11,8 +11,11 @@
             "id": "b57b91e00190dfa9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/community-plugins.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -120,13 +123,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "6c67275029221f0f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,12 +149,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b57b91e00190dfa9",
+  "active": "6c67275029221f0f",
   "lastOpenFiles": [
+    "Theory Notes/GPIO.md",
     "Projects - Freenove Ultimate Kit/Project Guide.pdf",
     "Main Canvas.canvas",
     "Theory Notes/Physics & Electricity.md",
-    "Theory Notes/GPIO.md",
     "Theory Notes/Components.md",
     "Theory Notes/Images/GPIO Electrical Mapping.png",
     "Theory Notes/Images/GPIO Numbering Relationship.png",
