@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e587671cbf5d15b6","x":-423,"y":-376,"width":400,"height":400,"type":"file","file":"Theory Notes/Physics & Electricity.md"},
+		{"id":"36388438562177e8","x":40,"y":-376,"width":400,"height":400,"type":"file","file":"Theory Notes/Components.md"},
+		{"id":"f115e941542a9447","x":-423,"y":80,"width":400,"height":400,"type":"file","file":"Theory Notes/GPIO.md"},
+		{"id":"e97862c5479afa14","x":40,"y":80,"width":400,"height":400,"color":"5","type":"file","file":"Projects - Freenove Ultimate Kit/1.1 - Simple LED/1.1 - Simple LED.md"}
+	],
+	"edges":[]
+}
