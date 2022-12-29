@@ -60,3 +60,9 @@ button.when_released = led.off
 
 pause()
 ```
+
+
+## Bar LED
+10 LEDs in one component, there are 10 rows, each with a + and - side
+
+MPU6050
