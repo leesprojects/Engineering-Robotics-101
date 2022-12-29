@@ -4,6 +4,11 @@
       "type": "file",
       "title": "Physics & Engineering 101",
       "path": "Theory Notes/Physics & Electricity.md"
+    },
+    {
+      "type": "file",
+      "title": "Project Guide",
+      "path": "Projects - Freenove Ultimate Kit/Project Guide.pdf"
     }
   ]
 }
