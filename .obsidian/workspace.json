@@ -18,20 +18,14 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "52f5c1e645e2d343",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "9726cef96e3f02da",
+            "id": "4117bb446ed48952",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory Notes/Components.md",
+                "file": "Theory Notes/GPIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Diode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory Notes/Components.md",
+                "file": "Projects - Freenove Ultimate Kit/Project Guide.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory Notes/Components.md",
+                "file": "Projects - Freenove Ultimate Kit/Project Guide.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory Notes/Components.md"
+                "file": "Projects - Freenove Ultimate Kit/Project Guide.pdf"
               }
             }
           },
@@ -172,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9726cef96e3f02da",
+  "active": "b57b91e00190dfa9",
   "lastOpenFiles": [
-    "Projects - Freenove Ultimate Kit/Project Guide.pdf",
-    "Projects - Freenove Ultimate Kit/2.1 Buttons & LED/2.1 Buttons & LED.md",
-    "Projects - Freenove Ultimate Kit/1.1 - Simple LED/1.1 - Simple LED.md",
-    "Raspberry Pi Guide.md",
-    "Theory Notes/Components.md",
-    "Main Canvas.canvas",
-    "Pasted image 20221228172159.png",
-    "Theory Notes/Basic LED Button Setup.png",
     "Theory Notes/GPIO.md",
-    "Theory Notes/Physics & Electricity.md"
+    "Projects - Freenove Ultimate Kit/Project Guide.pdf",
+    "Theory Notes/MPU6050.png",
+    "Theory Notes/Components.md",
+    "Theory Notes/Basic LED Button Setup 2.png",
+    "Theory Notes/Basic LED Button Setup.png",
+    "Main Canvas.canvas",
+    "Completed Circuits.md",
+    "Pasted image 20221228172159.png",
+    "Raspberry Pi Guide.md"
   ]
 }
